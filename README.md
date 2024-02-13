@@ -7,9 +7,9 @@
 ## Prévia do projeto
 
 #### Desktop
-![Desktop](https://github.com/pchfe/Angular-BuzzFeed/tree/main/src/assets/imgs/readme/desktop.png)
+![Desktop](https://github.com/pchfe/Angular-BuzzFeed/blob/main/src/assets/imgs/readme/desktop.PNG)
 #### Mobile
-![Mobile](https://github.com/pchfe/Angular-BuzzFeed/tree/main/src/assets/imgs/readme/mobile.png)
+![Mobile](https://github.com/pchfe/Angular-BuzzFeed/blob/main/src/assets/imgs/readme/mobile.PNG)
 
 ## Licença
 
