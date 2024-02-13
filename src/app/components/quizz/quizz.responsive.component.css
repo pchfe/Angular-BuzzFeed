@@ -1,0 +1,49 @@
+
+@media screen and (max-width: 500px) {
+    .quizz__container {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        width: 100vw;
+        height: 100vh;
+        padding: 25px 30px;
+        margin: 0;
+    }
+    .quizz_logo img {
+        width: 80%;
+    }
+    .quizz_logo h3 {
+        font-size: 19px;
+    }
+    .quizz_questions h3 {
+        font-size: 20px;
+        padding: 0 12px;
+    }
+    .quizz_options {
+        gap: 5px;
+    }
+    .btn-option {
+        width: 47%;
+        height: 100px;
+        padding: 0 5px;
+    }
+    .btn-option p {
+        display: none;
+    }
+
+    .quizz_results h1 {
+        font-size: 24px;
+        color: #9482ec;
+        margin: 10px 0;
+    }
+    .quizz_results p {
+        font-size: 20px;
+    }
+    .quizz_results .btn-option {
+        font-size: 16px;
+    }
+    .quizz_results .btn-option {
+        text-transform: uppercase;
+        font-weight: bolder;
+    }
+}
